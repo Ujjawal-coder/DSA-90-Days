@@ -1,1 +1,1 @@
-# DSA-90-Days
+The repo contains hands on practice problems related to dsa topics in python programming language , which helps to grasp the basics to advanced topics in dsa and also improves coding efficiency and practice for placement preparation.
